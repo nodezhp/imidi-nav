@@ -1,2 +1,2 @@
-# super-zhp
+# imidi-nav
 Hello World!
